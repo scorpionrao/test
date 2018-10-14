@@ -1,7 +1,11 @@
-A straightforward Spring Boot REST Api
+# Build to save time for TIMED interview challenges that involves building REST Api.
 
-- Built with required Unit and E2E Test infrastructure.
-- Data stored in external source.
+A straightforward Spring Boot REST Api.
+
+- Minimum scaffolding provided to start adding your own new APIs.
+- Minimum Unit tests provided to start adding your own new tests.
+- Minimum E2E Test (REST Assured library) that deploys and runs HTTP tests on the API.
+- Example of retrieving data required for the application from an external source.
 - Using MVC design pattern.
 
 
@@ -15,4 +19,4 @@ Steps to Get Started
 
 - *RESULT* - {"result":{"welcomeText":"Greetings"},"error":null}
 
-# Saves time for TIMED interview challenges to get started building REST Api
+Good luck with your interviews.
