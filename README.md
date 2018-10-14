@@ -14,3 +14,5 @@ Steps to Get Started
 - In your browser - http://localhost:8080/hello
 
 - *RESULT* - {"result":{"welcomeText":"Greetings"},"error":null}
+
+# Saves time for TIMED interview challenges to get started building REST Api
